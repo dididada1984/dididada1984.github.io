@@ -13,8 +13,6 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: 1
-weibo: 1
 github: dididada1984
 
 # avatar and Favicon
