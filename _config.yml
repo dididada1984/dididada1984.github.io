@@ -1,24 +1,23 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 我的世界
+email: 46928664@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  我的世界
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://mdzzz.pw # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
-
+author: 我的世界
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+twitter: 1
+weibo: 1
+github: dididada1984
+instagram: 1
+linkedin: 1
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
@@ -26,13 +25,12 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: 2
 
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: yansu.org
-
+  url: mdzzz.pw
 # Build settings
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
